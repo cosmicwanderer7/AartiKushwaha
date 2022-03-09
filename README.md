@@ -62,6 +62,10 @@
 <br/>
 <br/>
 
+## Watch the snake eating my contributions
+
+![snake gif](https://github.com/AartiKushwaha/AartiKushwaha/blob/output/github-contribution-grid-snake.gif)
+
 ## Connect with me:
 <p align="left">
 
