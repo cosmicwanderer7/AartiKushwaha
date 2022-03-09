@@ -20,7 +20,7 @@
 
 - 📫 Contact me at **rtkush1211@gmail.com**
 
-- ⚡ Fun fact **I love to listen songs when I am not coding/sleeping.**
+- ⚡ Fun fact **My favourite song- Baarishein by Anuv Jain, go and listen to it after viewing my profile 😉**
 
 ## 🚀 Languages and Tools:
 
